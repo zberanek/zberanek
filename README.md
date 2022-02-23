@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zack Beranek.
 - 👀 I’m interested in learning new skills and growing as a developer.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java and Git/GitHub.
 - 💞️ I’m not currently looking to collaborate on any projects.
 - 📫 Currently I prefer to be unreachable. :)
 
